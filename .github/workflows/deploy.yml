@@ -14,7 +14,7 @@ permissions:
   contents: read
 
 jobs:
-  docker:
+  Build_and_Push:
     runs-on: ubuntu-latest
 
     steps:
